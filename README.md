@@ -7,6 +7,7 @@ This repository includes practical work (TPs) and mini-projects related to Natur
 ### - Mini Projects
 ### - How to Use
 ### - Tools & Technologies
+### - How to View and Edit on Kaggle
 
 ## Course Material
 This section includes the course notes and summaries for key NLP topics covered during the semester.
@@ -72,3 +73,19 @@ Gensim: For word embeddings like Word2Vec
 scikit-learn: Used for feature extraction techniques like TF-IDF
 TensorFlow / PyTorch: Deep learning frameworks for sequence models and image captioning
 Transformers: Used in Project 2 for image captioning
+
+---
+
+## How to View and Edit on Kaggle https://www.kaggle.com/mohammedhachoud
+
+You can also view and edit the notebooks directly on **Kaggle**. To do this:
+
+1. Upload the notebook or copy the repository to your Kaggle environment.
+2. Open the notebook in **Kaggle** and make your edits.
+3. Run the notebook directly on Kaggle's infrastructure without setting up any environment locally.
+
+Kaggle provides an easy way to experiment with deep learning models and access GPU resources for faster training.
+
+---
+
+Feel free to explore the repository and make modifications as needed!
